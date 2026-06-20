@@ -1,0 +1,31 @@
+musvtech/
+│
+├── perception-systems/
+│   ├── robotics-perception-pipeline/
+│   ├── 3d-vision-and-geometry/
+│   └── visual-tracking-modules/
+│
+├── multimodal-ai/
+│   ├── vlm-rag-system/
+│   ├── vision-language-finetuning/
+│   └── multimodal-evaluation-tools/
+│
+├── deep-learning-systems/
+│   ├── model-optimization-tensorrt/
+│   ├── distributed-training-pipelines/
+│   └── synthetic-data-engine/
+│
+├── edge-ai/
+│   ├── jetson-inference/
+│   ├── onnx-quantization/
+│   └── real-time-deployment/
+│
+├── research/
+│   ├── human-centered-ai/
+│   ├── autonomous-systems/
+│   └── robotics-perception-papers/
+│
+└── tools-and-utilities/
+    ├── dataset-tools/
+    ├── annotation-scripts/
+    └── evaluation-metrics/
